@@ -1,4 +1,4 @@
-package card
+package main
 
 // MaxScore returns the best score for a series of correct choices.
 func MaxScore(choices []string, resp string) int {

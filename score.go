@@ -1,4 +1,4 @@
-package card
+package main
 
 // Score returns the score of a user response on a scale from 0 to 100.
 func Score(correct string, resp string) int {

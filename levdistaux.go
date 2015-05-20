@@ -1,4 +1,4 @@
-package card
+package main
 
 // LevDistAux returns the levenshtein distance of two strings using the simple recursive version.
 // See https://en.wikipedia.org/wiki/Levenshtein_distance.

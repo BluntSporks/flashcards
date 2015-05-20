@@ -1,4 +1,4 @@
-package card
+package main
 
 // LevDist returns the levenshtein distance.
 func LevDist(s string, t string) int {
