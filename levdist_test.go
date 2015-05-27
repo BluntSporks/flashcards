@@ -1,8 +1,6 @@
 package main
 
-import (
-	"testing"
-)
+import "testing"
 
 func TestLevDist(t *testing.T) {
 	orig := "abc"

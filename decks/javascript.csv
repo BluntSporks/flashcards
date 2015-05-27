@@ -1,0 +1,28 @@
+BOM object that has attributes for global variables and functions,window
+BOM object that represents the browser viewport,window
+BOM,Browser Object Model
+DOM node that is root of all other nodes,document
+DOM,Document Object Model
+can refer to global object or current object,this
+controls whether the entire document is editable,designMode
+declare a nonglobal,var
+document method to make a new element node,createElement
+element method to add a subelement,appendChild
+keyword for alternate condition,else
+keyword for conditional loop,while
+keyword for conditional,if
+keyword for numbered loop,for
+keyword for subroutine or method,function
+keyword to exit from case or loop,break
+keyword to skip to next iteration of loop,continue
+keyword to terminate function and yield function value,return
+keywords for conditionl loop that executes at least once,do...while
+keywords for loop that enumerates object properties,for...in
+method to exchange substring for a new substring,replace
+operator to check for a parent constructor.prototype,instanceof
+operator to create an object instance,new
+property for number of chars in string or elements in array,length
+statement to evaluate expression for selecting a case block,switch
+statement to identify code block within switch,case
+value of negative boolean,false
+value of positive boolean,true

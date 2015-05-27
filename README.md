@@ -9,6 +9,6 @@ Question and answer files should be provided in CSV format.
 
 The first column should be the question. The second column should be the answers.
 
-Alternate answers should be separated with slashes.
+Alternate answers should be separated with pipes.
 
 Spaces and capitalization are disregarded when grading answer.
