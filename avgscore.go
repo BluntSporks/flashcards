@@ -1,7 +1,7 @@
 package main
 
-// AvgScore returns the averge of a series of scores.
-func AvgScore(scores []int) int {
+// avgScore returns the averge of a series of scores.
+func avgScore(scores []int) int {
 	if len(scores) == 0 {
 		return 0
 	}

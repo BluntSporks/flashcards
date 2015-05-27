@@ -1,6 +1,6 @@
 package main
 
-type Card struct {
+type card struct {
 	ques string
 	ansz []string
 }

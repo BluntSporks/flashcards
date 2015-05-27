@@ -1,4 +1,3 @@
-// Shuffle the list of cards in place.
 package main
 
 import (
@@ -6,7 +5,8 @@ import (
 	"time"
 )
 
-func Shuffle(array []Card) {
+// shuffleCards puts the list of cards in random order.
+func shuffleCards(array []card) {
 	rand.Seed(time.Now().UnixNano())
 	for i := len(array) - 1; i > 0; i-- {
 		j := rand.Intn(i)
