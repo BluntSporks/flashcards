@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/csv"
 	"io"
+	"log"
 	"os"
 )
 
@@ -10,7 +11,7 @@ import (
 func loadCardMap(file string) map[string]string {
 	hdl, err := os.Open(file)
 	if err != nil {
-		panic(err)
+		log.Fatal(err)
 	}
 	defer hdl.Close()
 	reader := csv.NewReader(hdl)
@@ -22,16 +23,16 @@ func loadCardMap(file string) map[string]string {
 		if err == io.EOF {
 			break
 		} else if err != nil {
-			panic(err)
+			log.Fatal(err)
 		}
 		lineNum++
 		ques := record[0]
 		if ques == "" {
-			panic("Empty question on line " + string(lineNum))
+			log.Fatal("Empty question on line " + string(lineNum))
 		}
 		ansList := record[1]
 		if ansList == "" {
-			panic("Empty answer list on line " + string(lineNum))
+			log.Fatal("Empty answer list on line " + string(lineNum))
 		}
 		cardMap[ques] = ansList
 	}

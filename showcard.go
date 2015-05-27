@@ -3,6 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
+	"log"
 	"os"
 )
 
@@ -13,7 +14,7 @@ func showCard(card card) int {
 	scanner.Scan()
 	resp := scanner.Text()
 	if err := scanner.Err(); err != nil {
-		panic(err)
+		log.Fatal(err)
 	}
 	if resp == "" {
 		return -1
