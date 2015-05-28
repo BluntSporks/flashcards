@@ -1,8 +1,8 @@
 BOM object that has attributes for global variables and functions,window
 BOM object that represents the browser viewport,window
-BOM,Browser Object Model
+BOM,browser object model
 DOM node that is root of all other nodes,document
-DOM,Document Object Model
+DOM,document object model
 can refer to global object or current object,this
 controls whether the entire document is editable,designMode
 declare a nonglobal,var
