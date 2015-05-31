@@ -1,0 +1,29 @@
+developer tool in Chrome used to view rendered HTML including JavaScript DOM changes,Elements
+event that fires when document is fully loaded,ready
+function to add child element ahead of selected element,before
+function to add child element behind selected element,after
+function to add first child element of selected element,prepend
+function to add last child element of selected element,append
+function to alternate between show and hide,toggle
+function to attach class to selected element,addClass
+function to attach event handler,on
+function to delete selected elements from DOM,remove
+function to detach class from selected element,removeClass
+function to display hidden element,show
+function to read or write content of element with encoding,text
+function to read or write content of element without encoding,html
+function to remove element from being shown,hide
+function to remove event handler,off
+function to substitute new content for selected elements,replaceWith
+jQuery selectors are usually similar to _____,CSS
+language that jQuery is written in,JavaScript
+short form of jQuery selector function,$()
+t or f: View Source feature of your browser is automatically updated with JavaScript DOM changes,f
+t or f: html() and text() functions only insert content into first selected element,f
+used to select HTML element by ID,#
+used to select HTML elements by class,.
+used to select direct child of HTML element,>
+used to select element next to another HTML element,+
+used to select element siblings of another HTML element,~
+used to separate multiple HTML element selectors,","
+used to wrap HTML attribute selector,[]
