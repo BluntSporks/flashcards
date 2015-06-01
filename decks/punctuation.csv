@@ -1,0 +1,31 @@
+!,exclamation point|exlamation mark
+"""",quotation mark|double quotation mark|inch mark
+",",comma
+#,pound sign|hash mark
+$,dollar sign
+&,ampersand
+',apostrophe|single quotation mark|foot mark
+(,left parenthesis|open parenthesis
+),right parenthesis|close parenthesis
+*,asterisk
++,plus sign
+-,hyphen|minus sign
+.,period|full stop
+...,ellipsis
+/,slash|forward slash
+:,colon
+;,semicolon
+<,less-than sign
+=,equals sign
+>,greater-than sign
+?,question mark
+@,at sign|at symbol
+[,left bracket|open bracket
+\,backslash
+],right bracket|close bracket
+_,underscore
+`,grave accent
+{,left brace|open brace
+|,vertical bar|vertical pipe
+},right brace|close brace
+~,tilde
