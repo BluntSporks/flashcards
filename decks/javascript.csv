@@ -1,28 +1,33 @@
-BOM object that has attributes for global variables and functions,window
-BOM object that represents browser viewport,window
 BOM,browser object model
-DOM node that is root of all other nodes,document
+BOM object to represent browser viewport,window
+BOM object with attributes for global variables and functions,window
 DOM,document object model
-can refer to global object or current object,this
-controls whether entire document is editable,designMode
-declare nonglobal,var
-document method to make new element node,createElement
-element method to add subelement,appendChild
+DOM node for root of all other nodes,document
+element method to add subelement,appendChild()
+element property to control whether its content can be modified,contentEditable
 keyword for alternate condition,else
-keyword for conditional loop,while
 keyword for conditional,if
+keyword for conditional loop,while
 keyword for numbered loop,for
 keyword for subroutine or method,function
+keyword pair for conditionl loop to execute at least once,do...while
+keyword pair for loop to enumerate object properties,for...in
+keyword to declare nonglobal,var
+keyword to evaluate expression for selecting case block,switch
 keyword to exit from case or loop,break
+keyword to identify code block within switch,case
+keyword to refer to global or current object,this
 keyword to skip to next iteration of loop,continue
 keyword to terminate function and yield function value,return
-keywords for conditionl loop that executes at least once,do...while
-keywords for loop that enumerates object properties,for...in
-method to exchange substring for new substring,replace
 operator to check for parent constructor.prototype,instanceof
 operator to create object instance,new
 property for number of chars in string or elements in array,length
-statement to evaluate expression for selecting case block,switch
-statement to identify code block within switch,case
+property to get or set content of element,innerHTML
+static method to make new element node,document.createElement()
+static method to write into HTML output stream,document.write()
+static method to write into modal dialog box,window.alert()
+static method to write message in browser record,console.log()
+static property to control whether entire document is editable,document.designMode
+string method to exchange substring for new substring,replace()
 value of negative boolean,false
 value of positive boolean,true

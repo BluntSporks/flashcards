@@ -1,8 +1,8 @@
-distribution that models likelihood of next choice given no replacement,hypergeometric
-distribution that models number of events within time period,Poisson
-distribution that models number of successes when two outcomes are possible,binomial
-distribution that models number of trials before success occurs,geometric
-distribution that models time until next event,exponential
-distribution that models typical variations of measurements from mean,normal|standard
-distribution that models unknown pattern of probabilities,beta
-distribution that models variety of unpatterned or non-symmetric outcomes,geometric
+distribution to model likelihood of next choice given no replacement,hypergeometric
+distribution to model number of events within time period,Poisson
+distribution to model number of successes when two outcomes are possible,binomial
+distribution to model number of trials before success occurs,geometric
+distribution to model time until next event,exponential
+distribution to model typical variations of measurements from mean,normal|standard
+distribution to model unknown pattern of probabilities,beta
+distribution to model variety of unpatterned or non-symmetric outcomes,geometric

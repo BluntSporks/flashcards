@@ -1,9 +1,3 @@
-"holistic, team-based design model",scrum
-"lightweight, flexible design model",agile
-"program to _____, not implementation",interface
-QA,quality assurance
-QC,quality control
-WBS,work breakdown structure
 cyclical design model,iterative
 design model used by incremental build model,waterfall
 design of high-level software structures,architecture
@@ -20,8 +14,14 @@ evaluating fitness and correcting mistakes of software development product,quali
 favor _____ over inheritance,composition
 function software project must have,requirement
 getting requirements specification from user,elicitation
+"holistic, team-based design model",scrum
 important event in project life cycle,milestone
+"lightweight, flexible design model",agile
 part of software system that user sees and interacts with,user interface
+"program to _____, not implementation",interface
+QA,quality assurance
+QC,quality control
 risk-driven design model that blends elements of other models,spiral
 sequential design model,waterfall
 specifying how software modules connect or communicate,interface design
+WBS,work breakdown structure

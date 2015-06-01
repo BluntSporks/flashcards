@@ -1,30 +1,44 @@
+architectural pattern of client-server type to physically separate layers,multitier|n-tier
+architectural pattern to allow flexible communication through channels,message bus
+architectural pattern to center on business behaviors defined by subject matter experts,domain-driven
+architectural pattern to decompose system into functional or logical modules,component-based
+architectural pattern to distribute workload,P2P|peer-to-peer
+architectural pattern to group data and behavior in self-contained units,object-oriented|OOP
+architectural pattern to group related functionality into separate levels,layered
+architectural pattern to provide functions over network,service-oriented
+architectural pattern to react to changes in state,event-driven
+architectural pattern to separate data definition from user interface,MVC|model-view-controller
+architectural pattern to update common knowledge base,blackboard
+architectural pattern where one computer processes request from other computers across network,client-server
+category of design patterns to deal with multi-threading,concurrency
+category of design patterns to focus on constructing objects,creational
+category of design patterns to realize communication patterns between objects,behavioral
+category of design patterns to realize relationships between objects,structural
+design pattern to access elements of aggregate object in sequence,iterator
+design pattern to add functionality to object without subclassing,decorator
+design pattern to automatically notify dependents of change in object state,observer
+design pattern to capture and restore internal state of object,memento
+design pattern to construct different concrete classes step by step,builder
+design pattern to create large number of small objects,flyweight
+design pattern to create new objects by copying existing objects,prototype
+design pattern to create similar objects without specifying their concrete classes,abstract factory
+design pattern to decouple abstration from its implementation,bridge
+design pattern to encapsulate algorithms and switch between them,strategy
+design pattern to encapsulate request as object,command
+design pattern to evaluate sentences in language,interpreter
+design pattern to let class serve as interface,proxy
+design pattern to let object represent interactions between other objects,mediator
+design pattern to let request be passed along until handled,chain of responsibility
+design pattern to let subclass decide what concrete class to create,factory method
+design pattern to let subclasses redefine parts of parent behavior,template
+design pattern to let your modify interface of class,adapter
+design pattern to only allow creation of one global instance,singleton
+design pattern to perform operation on each element of structure,visitor
+design pattern to provide more convenient interface to class library,facade
+design pattern to switch object between different kinds of behavior,state
+design pattern to treat group of objects as single object,composite
+higher level of pattern than design pattern,architectural
 MVC,model-view-controller
 OOP,object-oriented programming
 P2P,peer-to-peer
 SOA,service-oriented architecture
-architectural pattern defined by reacting to changes in state,event-driven
-architectural pattern of client-server type that physically separates layers,multitier|n-tier
-architectural pattern that allows flexible communication through channels,message bus
-architectural pattern that centers on business behaviors defined by subject matter experts,domain-driven
-architectural pattern that decomposes system into functional or logical modules,component-based
-architectural pattern that distributes workload,P2P|peer-to-peer
-architectural pattern that groups data and behavior in self-contained units,object-oriented|OOP
-architectural pattern that groups related functionality into separate levels,layered
-architectural pattern that provides functions over network,service-oriented
-architectural pattern that separates data definition from user interface,MVC|model-view-controller
-architectural pattern that updates common knowledge base,blackboard
-architectural pattern where one computer processes request from other computers across network,client-server
-design pattern that lets subclass decide what concrete class to create,factory method
-design pattern that lets you add functionality to object without subclassing,decorator
-design pattern that lets you construct different concrete classes step by step,builder
-design pattern that lets you create new objects by copying existing objects,prototype
-design pattern that lets you create similar objects without specifying their concrete classes,abstract factory
-design pattern that lets you decouple abstration from its implementation,bridge
-design pattern that lets you treat group of objects as single object,composite
-design pattern that lets your modify interface of class,adapter
-design pattern that only allows creation of one global instance,singleton
-design patterns that deal with multi-threading,concurrency
-design patterns that focus on constructing objects,creational
-design patterns that realize communication patterns between objects,behavioral
-design patterns that realize relationships between objects,structural
-higher level of pattern than design pattern,architectural
