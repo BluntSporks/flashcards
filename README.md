@@ -37,4 +37,4 @@ Usage:
 
 Options:
 
-    lim=LIMIT  Limit of maximum questions to include in the current session [default=30]
+    lim=LIMIT  Limit of maximum questions to include in the current session [default=20]

@@ -1,0 +1,15 @@
+design or implementation flaw that results in software failure,defect|fault|bug
+determining if product is usable by disabled,accessibility testing
+determining if system requirements were met,acceptance testing
+difference between actual software behavior and desired behavior,failure|symptom
+evaluating software using its internal program structure,white box testing
+evaluating software using only its external user view,black box testing
+evaluating software without planning or documentation,ad hoc testing
+executing program to find failures,testing
+hardware and software setup used for running tests,test environment
+integration testing without incremental testing,big bang testing
+locating and fixing cause of program failure,debugging
+preliminary onsite testing,alpha testing
+"set of inputs, preconditions, and outputs for particular objective",test case
+testing of early versions outside development team,beta testing
+testing to explore limit conditions of software,boundary testing

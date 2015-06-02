@@ -9,7 +9,7 @@ import (
 
 func main() {
 	// Parse arguments.
-	limFlag := flag.Int("lim", 30, "Limit of maximum questions to include in the current session")
+	limFlag := flag.Int("lim", 20, "Limit of maximum questions to include in the current session")
 	flag.Parse()
 	if len(flag.Args()) < 1 {
 		log.Fatal("Missing filename argument")

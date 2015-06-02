@@ -1,31 +1,31 @@
-!,exclamation point|exlamation mark
-"""",quotation mark|double quotation mark|inch mark
-",",comma
-#,pound sign|hash mark
-$,dollar sign
 &,ampersand
 ',apostrophe|single quotation mark|foot mark
-(,left parenthesis|open parenthesis
-),right parenthesis|close parenthesis
 *,asterisk
-+,plus sign
--,hyphen|minus sign
-.,period|full stop
-...,ellipsis
-/,slash|forward slash
-:,colon
-;,semicolon
-<,less-than sign
-=,equals sign
->,greater-than sign
-?,question mark
 @,at sign|at symbol
-[,left bracket|open bracket
 \,backslash
-],right bracket|close bracket
-_,underscore
+:,colon
+",",comma
+$,dollar sign
+...,ellipsis
+=,equals sign
+!,exclamation point|exlamation mark
 `,grave accent
+>,greater-than sign
+-,hyphen|minus sign
 {,left brace|open brace
-|,vertical bar|vertical pipe
+[,left bracket|open bracket
+(,left parenthesis|open parenthesis
+<,less-than sign
+.,period|full stop
++,plus sign
+#,pound sign|hash mark
+?,question mark
+"""",quotation mark|double quotation mark|inch mark
 },right brace|close brace
+],right bracket|close bracket
+),right parenthesis|close parenthesis
+;,semicolon
+/,slash|forward slash
 ~,tilde
+_,underscore
+|,vertical bar|vertical pipe
