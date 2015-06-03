@@ -1,32 +1,28 @@
-category of design patterns to deal with multi-threading,concurrency
-category of design patterns to focus on constructing objects,creational
-category of design patterns to realize communication patterns between objects,behavioral
-category of design patterns to realize relationships between objects,structural
-design pattern to access elements of aggregate object in sequence,iterator
-design pattern to add functionality to object without subclassing,decorator
-design pattern to automatically notify dependents of change in object state,observer
-design pattern to capture and restore internal state of object,memento
-design pattern to construct different concrete classes step by step,builder
-design pattern to create large number of small objects,flyweight
-design pattern to create new objects by copying existing objects,prototype
-design pattern to create similar objects without specifying their concrete classes,abstract factory
-design pattern to decouple abstration from its implementation,bridge
-design pattern to encapsulate algorithms and switch between them,strategy
-design pattern to encapsulate request as object,command
-design pattern to evaluate sentences in language,interpreter
-design pattern to let class serve as interface,proxy
-design pattern to let object represent interactions between other objects,mediator
-design pattern to let request be passed along until handled,chain of responsibility
-design pattern to let subclass decide what concrete class to create,factory method
-design pattern to let subclasses redefine parts of parent behavior,template
-design pattern to let your modify interface of class,adapter
-design pattern to only allow creation of one global instance,singleton
-design pattern to perform operation on each element of structure,visitor
-design pattern to provide more convenient interface to class library,facade
-design pattern to switch object between different kinds of behavior,state
-design pattern to treat group of objects as single object,composite
-higher level of pattern than design pattern,architectural
-MVC,model-view-controller
-OOP,object-oriented programming
-P2P,peer-to-peer
-SOA,service-oriented architecture
+category of patterns to deal with multi-threading,concurrency
+category of patterns to focus on constructing objects,creational
+category of patterns to realize communication patterns between objects,behavioral
+category of patterns to realize relationships between objects,structural
+higher level of pattern than pattern,architectural
+pattern to access elements of aggregate object in sequence,iterator
+pattern to add functionality to object without subclassing,decorator
+pattern to automatically notify dependents of change in object state,observer
+pattern to capture and restore internal state of object,memento
+pattern to construct different concrete classes step by step,builder
+pattern to create large number of small objects,flyweight
+pattern to create new objects by copying existing objects,prototype
+pattern to create similar objects without specifying their concrete classes,abstract factory
+pattern to decouple abstration from its implementation,bridge
+pattern to encapsulate algorithms and switch between them,strategy
+pattern to encapsulate request as object,command
+pattern to evaluate sentences in language,interpreter
+pattern to let class serve as interface,proxy
+pattern to let object represent interactions between other objects,mediator
+pattern to let request be passed along until handled,chain of responsibility
+pattern to let subclass decide what concrete class to create,factory method
+pattern to let subclasses redefine parts of parent behavior,template
+pattern to let your modify interface of class,adapter
+pattern to only allow creation of one global instance,singleton
+pattern to perform operation on each element of structure,visitor
+pattern to provide more convenient interface to class library,facade
+pattern to switch object between different kinds of behavior,state
+pattern to treat group of objects as single object,composite
