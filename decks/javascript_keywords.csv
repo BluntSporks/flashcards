@@ -1,6 +1,6 @@
 keyword for alternate condition,else
-keyword for conditional,if
 keyword for conditional loop,while
+keyword for conditional,if
 keyword for numbered loop,for
 keyword for subroutine or method,function
 keyword pair for conditionl loop to execute at least once,do...while

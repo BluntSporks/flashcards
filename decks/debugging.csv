@@ -1,3 +1,4 @@
+"set of inputs, preconditions, and outputs for particular objective",test case
 design or implementation flaw that results in software failure,defect|fault|bug
 determining if product is usable by disabled,accessibility testing
 determining if system requirements were met,acceptance testing
@@ -9,6 +10,5 @@ executing program to find failures,testing
 hardware and software setup used for running tests,test environment
 locating and fixing cause of program failure,debugging
 preliminary onsite testing,alpha testing
-"set of inputs, preconditions, and outputs for particular objective",test case
 testing of early versions outside development team,beta testing
 testing to explore limit conditions of software,boundary testing

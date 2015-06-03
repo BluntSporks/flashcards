@@ -1,4 +1,7 @@
 "program to _____, not implementation",interface
+QA,quality assurance
+QC,quality control
+WBS,work breakdown structure
 design of high-level software structures,architecture
 determining if software project is worthwhile,feasibility study
 determining schedule for software project,project planning
@@ -15,8 +18,5 @@ function software project must have,requirement
 getting requirements specification from user,elicitation
 important event in project life cycle,milestone
 part of software system that user sees and interacts with,user interface
-QA,quality assurance
-QC,quality control
 specifying how software modules connect or communicate,interface design
-WBS,work breakdown structure
 writing unit test before code that passes test,test-driven development

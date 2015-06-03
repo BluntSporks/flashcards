@@ -1,8 +1,8 @@
-BOM,browser object model
 BOM object to represent browser viewport,window
 BOM object with attributes for global variables and functions,window
-DOM,document object model
+BOM,browser object model
 DOM node for root of all other nodes,document
+DOM,document object model
 element method to add subelement,appendChild()
 element property to control whether its content can be modified,contentEditable
 operator to check for parent constructor.prototype,instanceof
