@@ -1,0 +1,57 @@
+"element for creating smaller, lighter secondary text in heading",<small>
+class to limit preformatted section to fixed max-height,pre-scrollable
+class to make <iframe>, <embed>, <video>, or <object> scale to parent element,embed-responsive-item
+class to make paragraph stand out,lead
+default font size,14px
+div class to call attention to content using gray box with rounded corners,jumbotron
+div class to provide fixed-width container,container
+div class to provide full-width container,container-fluid
+element for a keypress combination,<kbd>
+element for abbreviations,<abbr>
+element for computer language,<code>
+element for highlighting text,<mark>
+element for long direct quotations,<blockquote>
+element for preformatted text,<pre>
+grid class for desktops,md
+grid class for large desktops,lg
+grid class for phones,xs
+grid class for tables,sm
+heading class to add horizontal underline and extra space for emphasis,page-header
+image class to make corners rounded,img-rounded
+image class to make light border,img-thumbnail
+image class to make scale to parent element,img-responsive
+image class to make shape circular,img-circle
+list class to put all items in a single row,list-inline
+list class to put terms and definitions side by side,dl-horizontal
+list class to remove default style and margin,list-unstyled
+number of grid columns across page,12
+system of arranging content in fixed columns,grid
+t or f: containers are nestable,f
+table class to add basic styling,table
+table class to add borders to all cells,table-bordered
+table class to add zebra stripes,table-striped
+table class to enable hover effect on rows,table-hover
+table class to make cell padding more compact,table-condensed
+table class to mark row or cell as bad result,warning
+table class to mark row or cell as correct result,success
+table class to mark row or cell as harmful result,danger
+table class to mark row or cell as helpful result,info
+table class to mark row or cell with hover color,active
+text background class for bad result,bg-warning
+text background class for correct result,bg-success
+text background class for harmful result,bg-danger
+text background class for helpful message,bg-info
+text background class for important message,bg-primary
+text class for bad result,text-warning
+text class for center-aligned,text-center
+text class for correct result,text-success
+text class for harmful result,text-danger
+text class for helpful message,text-info
+text class for important message,text-primary
+text class for justified,text-justify
+text class for left-aligned,text-left
+text class for nonwrapped,text-nowrap
+text class for right-aligned,text-right
+text class for smaller,small
+text class for unimportant message,text-muted
+where Bootstrap was developed,Twitter

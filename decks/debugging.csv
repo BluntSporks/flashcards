@@ -7,7 +7,7 @@ evaluating software using its internal program structure,white box testing
 evaluating software using only its external user view,black box testing
 evaluating software without planning or documentation,ad hoc testing
 executing program to find failures,testing
-hardware and software setup used for running tests,test environment
+hardware and software setup for running tests,test environment
 locating and fixing cause of program failure,debugging
 preliminary onsite testing,alpha testing
 testing of early versions outside development team,beta testing

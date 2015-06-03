@@ -1,4 +1,4 @@
-developer tool in Chrome used to view rendered HTML including JavaScript DOM changes,Elements
+developer tool in Chrome for viewing rendered HTML including JavaScript DOM changes,Elements
 event to fire when document is fully loaded,ready
 function to add child element ahead of selected element,before
 function to add child element behind selected element,after
@@ -17,13 +17,13 @@ function to remove event handler,off
 function to substitute new content for selected elements,replaceWith
 jQuery selectors are usually similar to _____,cascading style sheets|CSS
 language that jQuery is written in,JavaScript
+mark to select HTML element by ID,#
+mark to select HTML elements by class,.
+mark to select direct child of HTML element,>
+mark to select element next to another HTML element,+
+mark to select element siblings of another HTML element,~
+mark to separate multiple HTML element selectors,","
+mark to wrap HTML attribute selector,[]
 short form of jQuery selector function,$()
 t or f: View Source feature of your browser is automatically updated with JavaScript DOM changes,f
 t or f: html() and text() functions only insert content into first selected element,f
-used to select HTML element by ID,#
-used to select HTML elements by class,.
-used to select direct child of HTML element,>
-used to select element next to another HTML element,+
-used to select element siblings of another HTML element,~
-used to separate multiple HTML element selectors,","
-used to wrap HTML attribute selector,[]
