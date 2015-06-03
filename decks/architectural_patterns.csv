@@ -7,10 +7,10 @@ pattern to allow flexible communication through channels,message bus
 pattern to center on business behaviors defined by subject matter experts,domain-driven
 pattern to decompose system into functional or logical modules,component-based
 pattern to distribute workload,P2P|peer-to-peer
-pattern to group data and behavior in self-contained units,object-oriented|OOP
+pattern to group data and behavior in self-contained units,object-oriented programming|OOP
 pattern to group related functionality into separate levels,layered
 pattern to provide functions over network,service-oriented architecture|SOA
 pattern to react to changes in state,event-driven
-pattern to separate data definition from user interface,MVC|model-view-controller
+pattern to separate data definition from user interface,model-view-controller|MVC
 pattern to update common knowledge base,blackboard
 pattern where one computer processes request from other computers across network,client-server
