@@ -1,10 +1,9 @@
-cyclical design model,iterative
-design model used by incremental build model,waterfall
+"program to _____, not implementation",interface
 design of high-level software structures,architecture
 determining if software project is worthwhile,feasibility study
 determining schedule for software project,project planning
 determining structure and functions of software project,design
-determining subtasks necessary to provide deliverable,work breakdown structure
+determining subtasks necessary to provide deliverable,work breakdown structure|WBS
 determining what features related software have in common,domain analysis
 development build model that produces small changesets,incremental
 early stage of idea production of software project,conceptualization|brainstorming
@@ -14,15 +13,10 @@ evaluating fitness and correcting mistakes of software development product,quali
 favor _____ over inheritance,composition
 function software project must have,requirement
 getting requirements specification from user,elicitation
-"holistic, team-based design model",scrum
 important event in project life cycle,milestone
-"lightweight, flexible design model",agile
 part of software system that user sees and interacts with,user interface
-"program to _____, not implementation",interface
 QA,quality assurance
 QC,quality control
-risk-driven design model that blends elements of other models,spiral
-sequential design model,waterfall
 specifying how software modules connect or communicate,interface design
 WBS,work breakdown structure
 writing unit test before code that passes test,test-driven development
