@@ -1,15 +1,15 @@
+"class to make <iframe>, <embed>, <video>, or <object> scale to parent element",embed-responsive-item
 "element for creating smaller, lighter secondary text in heading",<small>
 class to limit preformatted section to fixed max-height,pre-scrollable
-class to make <iframe>, <embed>, <video>, or <object> scale to parent element,embed-responsive-item
 class to make paragraph stand out,lead
 default font size,14px
 div class to call attention to content using gray box with rounded corners,jumbotron
 div class to provide fixed-width container,container
 div class to provide full-width container,container-fluid
-element for a keypress combination,<kbd>
 element for abbreviations,<abbr>
 element for computer language,<code>
 element for highlighting text,<mark>
+element for keypress combination,<kbd>
 element for long direct quotations,<blockquote>
 element for preformatted text,<pre>
 grid class for desktops,md
@@ -21,7 +21,7 @@ image class to make corners rounded,img-rounded
 image class to make light border,img-thumbnail
 image class to make scale to parent element,img-responsive
 image class to make shape circular,img-circle
-list class to put all items in a single row,list-inline
+list class to put all items in single row,list-inline
 list class to put terms and definitions side by side,dl-horizontal
 list class to remove default style and margin,list-unstyled
 number of grid columns across page,12
