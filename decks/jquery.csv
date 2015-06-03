@@ -15,7 +15,7 @@ function to read or write content of element without encoding,html
 function to remove element from being shown,hide
 function to remove event handler,off
 function to substitute new content for selected elements,replaceWith
-jQuery selectors are usually similar to _____,CSS
+jQuery selectors are usually similar to _____,cascading style sheets|CSS
 language that jQuery is written in,JavaScript
 short form of jQuery selector function,$()
 t or f: View Source feature of your browser is automatically updated with JavaScript DOM changes,f
