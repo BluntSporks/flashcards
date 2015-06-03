@@ -7,7 +7,6 @@ evaluating software using only its external user view,black box testing
 evaluating software without planning or documentation,ad hoc testing
 executing program to find failures,testing
 hardware and software setup used for running tests,test environment
-integration testing without incremental testing,big bang testing
 locating and fixing cause of program failure,debugging
 preliminary onsite testing,alpha testing
 "set of inputs, preconditions, and outputs for particular objective",test case
