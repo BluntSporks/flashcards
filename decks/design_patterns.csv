@@ -1,15 +1,3 @@
-architectural pattern of client-server type to physically separate layers,multitier|n-tier
-architectural pattern to allow flexible communication through channels,message bus
-architectural pattern to center on business behaviors defined by subject matter experts,domain-driven
-architectural pattern to decompose system into functional or logical modules,component-based
-architectural pattern to distribute workload,P2P|peer-to-peer
-architectural pattern to group data and behavior in self-contained units,object-oriented|OOP
-architectural pattern to group related functionality into separate levels,layered
-architectural pattern to provide functions over network,service-oriented
-architectural pattern to react to changes in state,event-driven
-architectural pattern to separate data definition from user interface,MVC|model-view-controller
-architectural pattern to update common knowledge base,blackboard
-architectural pattern where one computer processes request from other computers across network,client-server
 category of design patterns to deal with multi-threading,concurrency
 category of design patterns to focus on constructing objects,creational
 category of design patterns to realize communication patterns between objects,behavioral
