@@ -1,22 +1,31 @@
-"program to _____, not implementation",interface
+"program to an _____, not an implementation",interface
+"structured, formal process of code review",inspection|Fagan inspection
+"systematic control of project, process, and documentation",configuration management
 QA,quality assurance
 QC,quality control
-WBS,work breakdown structure
+build model that recommends producing small changesets,incremental
 design of high-level software structures,architecture
 determining if software project is worthwhile,feasibility study
-determining schedule for software project,project planning
+determining schedule for software project,planning
 determining structure and functions of software project,design
-determining subtasks necessary to provide deliverable,work breakdown structure|WBS
-determining what features related software have in common,domain analysis
-development build model that produces small changesets,incremental
+duration of stages in existence of project,life cycle
 early stage of idea production of software project,conceptualization|brainstorming
 evaluating and improving fitness of software development process,quality assurance
 evaluating existing solutions before beginning software project,research
 evaluating fitness and correcting mistakes of software development product,quality control
+evaluating whether software design meets requirements,technical review|design review
+explicit set of requirements to be satisfied by product or service,specification
 favor _____ over inheritance,composition
 function software project must have,requirement
 getting requirements specification from user,elicitation
+identification and control of potential causes of project failure,risk management
 important event in project life cycle,milestone
+informal team review of software product led by developer,walkthrough
+inventor of formal software inspection,Michael Fagan
+most important project resource,people
 part of software system that user sees and interacts with,user interface
+quantitative measure of property of software system,metric
+reliance on functionality provided by some external component,dependency
 specifying how software modules connect or communicate,interface design
+systematic examination of software internals,code review|peer review
 writing unit test before code that passes test,test-driven development
