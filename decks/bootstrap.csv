@@ -15,7 +15,7 @@ element for preformatted text,<pre>
 grid class for desktops,md
 grid class for large desktops,lg
 grid class for phones,xs
-grid class for tables,sm
+grid class for tablets,sm
 heading class to add horizontal underline and extra space for emphasis,page-header
 image class to make corners rounded,img-rounded
 image class to make light border,img-thumbnail
